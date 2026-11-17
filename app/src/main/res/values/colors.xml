@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FFD54F</color>
+    <color name="chip_on">#FFD54F</color>
+    <color name="chip_off">#33FFFFFF</color>
+    <color name="launcher_bg">#1B2631</color>
+</resources>
